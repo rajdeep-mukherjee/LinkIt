@@ -8,11 +8,12 @@
 
 ## Screenshots
 
-![](https://imgur.com/a/TvDeoj0)
+![](https://user-images.githubusercontent.com/40907756/138640081-a220575a-c3ab-4504-97ef-164f033c3b2a.PNG)
 
 ## How to use the extension
 
 - Clone the repository
+
 
 `git clone parthpanchal123/Linkaro`
 
