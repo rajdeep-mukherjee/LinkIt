@@ -1,4 +1,4 @@
-## Linkaro : A browser extension to store and share your social links easily.
+## Link It : A browser extension to store and share your social links easily.
 
 ## Working
 
@@ -13,7 +13,6 @@
 ## How to use the extension
 
 - Clone the repository
-
 
 `git clone parthpanchal123/Linkaro`
 
