@@ -14,7 +14,7 @@
 
 - Clone the repository
 
-`git clone parthpanchal123/Linkaro`
+`git clone https://github.com/rajdeep-mukherjee/LinkIt.git`
 
 - Go to extensions in your browser
 
