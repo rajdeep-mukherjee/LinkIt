@@ -18,15 +18,18 @@
 
 - Go to extensions in your browser
 
-![](https://i.imgur.com/wmnIilX.png)
+!![](https://user-images.githubusercontent.com/40907756/138641467-34ccdc73-cb21-4875-8daa-547bb5019759.png)
+
 
 - Enable developer options
 
-![](https://i.imgur.com/WUvqgVl.png)
+![](https://user-images.githubusercontent.com/40907756/138641669-cd181868-acb9-44cb-9fb9-e26597741922.png)
+
 
 - Click on load unpacked
 
-![](https://i.imgur.com/xYkV5W1.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/40907756/138642128-9e133c28-1538-4959-b6f4-691f27fcf33d.png)
+
 
 - Simply select the folder where you cloned the Linkaro folder . The extension should be visible in your browser .
 
